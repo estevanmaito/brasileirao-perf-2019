@@ -32,16 +32,17 @@
 
 ## Critérios
 
-- A pontuação/classificação se baseia unicamente no tempo de carregamento da página, calculada da seguinte forma:
+A pontuação/classificação se baseia unicamente no tempo de carregamento da página, calculada da seguinte forma:
 
 Tr1 = Tempo até o começo da renderização na primeira visita
+
 Tr2 = Tempo até o começo da renderização na segunda visita (cacheada)
 
 Resultado = Tr1 - Tr2
 
 ## Itens avaliados
 
-O resultado, medido pelo tempo até a renderização, isoladamente não ajuda a entender todo contexto e ambiente que resulta em determinado tempo de carregamento. Para ajudar tanto o leitor quanto os desenvolvedores interessados a melhorar os resultados, cada site terá, pelo menos, os seguintes itens avaliados:
+O resultado, medido pelo tempo até a renderização, isoladamente não ajuda a entender todo contexto e ambiente que resulta em determinado tempo de carregamento. Para ajudar, tanto o leitor quanto os desenvolvedores interessados, a melhorar os resultados, cada site terá, pelo menos, os seguintes itens avaliados:
 
 - [ ] HTTPS
 - [ ] HTTP/2
@@ -57,7 +58,6 @@ O resultado, medido pelo tempo até a renderização, isoladamente não ajuda a 
 - [ ] Unnecessary CSS
 - [ ] Unnecessary JS
 - [ ] Badly compressed fonts
-- [ ] Poor image Compression
 - [ ] Main thread lock-up
 - [ ] Unstable render
 - [ ] Icons fonts
