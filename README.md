@@ -38,7 +38,9 @@ Tr1 = Tempo até o começo da renderização na primeira visita
 
 Tr2 = Tempo até o começo da renderização na segunda visita (cacheada)
 
-Resultado = Tr1 - Tr2
+Resultado = Tr1 + Tr2
+
+Simples, quanto menores os tempos de rendereização em cada visita, menor o total, melhor a classificação do site.
 
 ## Itens avaliados
 
