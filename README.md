@@ -9,7 +9,7 @@
 - [Ceará](/clubes/ceara)
 - [Chapecoense](/clubes/chapecoense)
 - [Corinthians](/clubes/corinthians)
-- [Cruzeiro](/clubes/cruzeiro)
+- [Cruzeiro](/clubes/cruzeiro) (timeout - repetir)
 - [Flamengo](/clubes/flamengo)
 - [Fluminense](/clubes/fluminense)
 - [Fortaleza](/clubes/fortaleza)
