@@ -1,6 +1,6 @@
 # Fluminense
 
-[Site](www.fluminense.com.br/site/). [WebPageTest](https://www.webpagetest.org/result/190422_NV_dca79f2f1c56c66a6b018d464f437278/).
+[Site](http://www.fluminense.com.br/site/). [WebPageTest](https://www.webpagetest.org/result/190422_NV_dca79f2f1c56c66a6b018d464f437278/).
 
 ## Primeiro tempo
 
