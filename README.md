@@ -13,7 +13,7 @@
 - [Flamengo](/clubes/flamengo)
 - [Fluminense](/clubes/fluminense)
 - [Fortaleza](/clubes/fortaleza)
-- [Goiás](/clubes/goias)
+- [Goiás](/clubes/goias) (timeout - repetir)
 - [Grêmio](/clubes/gremio)
 - [Internacional](/clubes/internacional)
 - [Palmeiras](/clubes/palmeiras)
