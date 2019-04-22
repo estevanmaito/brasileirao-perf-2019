@@ -4,15 +4,15 @@
 
 ## Primeiro tempo
 
-![](imgs/filmstrip-first-view-run-1.png)
+![](imgs/filmstrip-first-view-run-3.png)
 
-![](imgs/first-view-run-1.png)
+![](imgs/first-view-run-3.png)
 
 ## Segundo tempo
 
-![](imgs/filmstrip-second-view-run-3.png)
+![](imgs/filmstrip-second-view-run-2.png)
 
-![](imgs/second-view-run-3.png)
+![](imgs/second-view-run-2.png)
 
 ## Imagens
 
