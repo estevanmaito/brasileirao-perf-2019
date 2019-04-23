@@ -80,11 +80,13 @@ O site está com o cache funcionando perfeitamente, mas ainda assim demora **3.5
 
 Permitir um mínimo de cache, algo como 5 minutos na página inicial, removeria esses 1751 ms de atraso também e não comprometeria muito as atualizações do site.
 
+## Custo
+
+De um total de 13.8 MB transferidos, 11.7 MB são imagens. Num plano de 100 MB a R$ 1,49/dia, acessar este site uma vez por dia custaria R$ 6,17 por mês, ou 4 dias de internet.
+
 ## Imagens
 
-Falamos muito sobre scripts, CSS, bloqueio de renderização entre outras práticas, mas se você reparou no primeiro relatório de carregamento, notou que a página leva praticamente 90s para carregar completamente e que praticamente 100 requisições a partir da linha 52 são imagens. De um total de 13.8 MB transferidos, 11.7 MB são imagens.
-
-Num plano de 100 MB a R$ 1,49/dia, acessar este site uma vez por dia custaria R$ 6,17 por mês, ou 4 dias de internet.
+Falamos muito sobre scripts, CSS, bloqueio de renderização entre outras práticas, mas se você reparou no primeiro relatório de carregamento, notou que a página leva praticamente 90s para carregar completamente e que praticamente 100 requisições a partir da linha 52 são imagens.
 
 **Nenhuma imagem passou por compressão**, entre as servidas pelo Athletico. Entre as que foram comprimidas, estão as **trinta e quatro** de um carousel do Instagram.
 
