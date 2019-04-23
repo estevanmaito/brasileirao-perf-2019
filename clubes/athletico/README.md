@@ -88,7 +88,7 @@ Num plano de 100 MB a R$ 1,49/dia, acessar este site uma vez por dia custaria R$
 
 **Nenhuma imagem passou por compressão**, entre as servidas pelo Athletico. Entre as que foram comprimidas, estão as **trinta e quatro** de um carousel do Instagram.
 
-Uma das imagens que servem de fundo ao slider principal e que tem a largura total da tela pesa 1.17 MB e tem 2880x1200px. Quanto às dimensões, o uma solução rápida seria servir uma imagem adequada ao mobile, com no máximo 1000px de largura. A solução ideal mesmo seria usar `srcset` e `sizes` no `img` ou `picture`s. Quanto ao peso, **reduzi o JPEG original de 1.17 MB para 44 KB (96% menor) em JPEG ou 25.8 KB em WebP**.
+Uma das imagens que servem de fundo ao slider principal e que tem a largura total da tela pesa 1.17 MB e tem 2880x1200px. Quanto às dimensões, uma solução rápida seria servir uma imagem adequada ao mobile, com no máximo 1000px de largura. A solução ideal mesmo seria usar `srcset` e `sizes` no `img` ou `picture`s. Quanto ao peso, **reduzi o JPEG original de 1.17 MB para 44 KB (96% menor) em JPEG ou 25.8 KB em WebP**.
 
 Em outra imagem, **reduzi o PNG original de 996 KB para 43.5 KB (96% menor) em JPEG ou 24.9 KB em WebP**.
 
