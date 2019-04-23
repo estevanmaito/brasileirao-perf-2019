@@ -104,6 +104,14 @@ Atrasar o carregamento de imagens até que elas entrem no viewport (*image lazy 
 
 Graças ao H, o Afhletico se mantém na ponta, com o primeiro e único resultado até o momento.
 
+Esse site tem muito potencial, pois as requisições já desfrutam do HTTP/2, além do cache e da segurança do HTTPS. Um ponto que não comentei antes é que alguns recursos externos ainda desfrutam de uma conexão mais rápida graças ao `dns-prefetch` de alguns domínios no `head`, como por exemplo:
+
+```html
+<link rel='dns-prefetch' href='//d3js.org' />
+```
+
+Tenho a sensação de que seria possível reduzir em uns 7s o tempo de carregamento inicial reorganizando o download e compressão dos scripts no `head`, aquele CSS imenso e as fontes de ícones.
+
 Bom
 - HTTPS
 - HTTP/2
@@ -122,11 +130,3 @@ Ruim
 - Download atrasado de CSS
 - Download atrasado de fontes
 - Scripts bloqueiam renderização
-
-Esse site tem muito potencial, pois as requisições já desfrutam do HTTP/2, além do cache e da segurança do HTTPS. Um ponto que não comentei antes é que alguns recursos externos ainda desfrutam de uma conexão mais rápida graças ao `dns-prefetch` de alguns domínios no `head`, como por exemplo:
-
-```html
-<link rel='dns-prefetch' href='//d3js.org' />
-```
-
-Tenho a sensação de que seria possível reduzir em uns 7s o tempo de carregamento inicial reorganizando o download e compressão dos scripts no `head`, aquele CSS imenso e as fontes de ícones.
