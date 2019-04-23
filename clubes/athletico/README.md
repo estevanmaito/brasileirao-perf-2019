@@ -121,7 +121,7 @@ Bom
 - Cache
 
 Ruim
-- Minificação
+- Sem minificação
 - Sem gzip
 - Compressão de imagens
 - Compressão de fontes

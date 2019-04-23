@@ -62,9 +62,9 @@ Bom
 - Carregou
 
 Ruim
-- Keep alive
-- Cache
-- Minificação
+- Sem keep alive
+- Sem cache
+- Sem minificação
 - Sem gzip
 - HTTP/1
 - HTTP

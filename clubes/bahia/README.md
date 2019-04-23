@@ -64,7 +64,7 @@ Bom
 - Cache
 
 Ruim
-- Minificação
+- Sem minificação
 - Compressão de imagens
 - JS desnecessário
 - CSS desnecessário
