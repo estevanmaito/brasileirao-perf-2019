@@ -72,5 +72,5 @@ Ruim
 - Download atrasado de JS
 - Download atrasado de fontes
 - Scripts bloqueiam renderização
-- Excesso de conexões
 - Muitas imagens
+- Excesso de conexões
