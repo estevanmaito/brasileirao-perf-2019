@@ -18,7 +18,7 @@ As fontes são carregadas em um `link` próprio, porém, não se beneficiam do `
 
 Com imensa destreza, recortei só a requisição dos scripts do site e aproximei o gráfico no final do relatório que mostra a situação da thread. Veja que todos os bloqueios acontecem ao final ou execução de um script (traçado/linha horizontal rosa).
 
-Tão ruim quanto não ter um cabeçalho `keep alive`, é ter um mal configurado, e aqui nós temos um que **encerra as conexões depois de um timeout de 1 segundo**, o que resulta em 50 conexões, sendo 18 delas para o próprio servidor do CSA. Se colocar 2 zeros aí já resolve o problema. Servidor esse, já que você entrou no assunto, que **utiliza HTTP/1, sem gzip e sem cache.**
+Tão ruim quanto não ter um cabeçalho `keep alive`, é ter um mal configurado, e aqui nós temos um que **encerra as conexões depois de um timeout de 1 segundo**, o que resulta em 50 conexões, sendo 18 delas para o próprio servidor do CSA. Se colocar 1 zero aí já resolve o problema. Servidor esse, já que você entrou no assunto, que **utiliza HTTP/1, sem gzip e sem cache.**
 
 Não é por falta de coisa boa pra falar não, mas eu olhei o código escrito nesse site e acho que é o mais bonito até agora, quiçá num possível top 100 que já vi. Bem comentado, **organizado**, usando BEM pro CSS. E digo isso pois **qualquer coisa fica mais fácil de corrigir quando tudo fica tão óbvio com um código limpo**. O que falei acima, com exceção do servidor, liberaria a thread, aceleraria o render e não daria muito trabalho.
 
