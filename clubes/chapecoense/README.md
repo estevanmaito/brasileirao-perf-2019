@@ -67,6 +67,7 @@ Bom
 - Image lazy loading
 
 Ruim
+- Compressão de imagens
 - Minificação parcial
 - Sem gzip
 - JS desnecessário

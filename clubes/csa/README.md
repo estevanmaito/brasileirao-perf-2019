@@ -71,6 +71,7 @@ Bom
 Ruim
 - Sem cache
 - Sem gzip
+- Compressão de imagens
 - HTTP
 - Sem keep alive
 - HTTP/1

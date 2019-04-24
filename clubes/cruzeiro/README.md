@@ -65,6 +65,7 @@ Bom
 
 Ruim
 - Keep alive
+- Compressão de imagens
 - HTTP/1
 - Sem minificação
 - JS desnecessário

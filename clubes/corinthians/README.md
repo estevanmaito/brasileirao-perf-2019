@@ -74,6 +74,7 @@ Bom
 Ruim
 - Sem cache
 - Minificação parcial
+- Compressão de imagens
 - JS desnecessário
 - CSS desnecessário
 - Download atrasado de JS
