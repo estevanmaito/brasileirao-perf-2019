@@ -75,3 +75,4 @@ Ruim
 - Download atrasado de fontes
 - Compressão de fontes
 - Scripts bloqueiam renderização
+- Excesso de conexões
