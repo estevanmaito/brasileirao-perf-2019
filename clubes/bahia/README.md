@@ -50,10 +50,10 @@ Como dito acima, dos 8.5 MB baixados, apenas 700 KB não são de imagens, que s�
 
 ## Resultado
 
-- Atlético - 15.3s
-- Athletico - 17.4s
-- Bahia - 56.8s
-- Avaí - 61.6s
+1. Atlético - 15.3s
+1. Athletico - 17.4s
+1. Bahia - 56.8s
+1. Avaí - 61.6s
 
 É como se o Bahia contratasse o Messi e colocasse ele aos 40" do segundo tempo na lateral esquerda. Este site tem muito potencial e uma base muito sólida, mas um script tirou pelo menos 40s do carregamento dele. O que eu falei acima ajudaria em todos os setores, mas remover esse comportamento alterado do scroll já colocaria o Bahia brigando pela primeira colocação. Uma pena.
 

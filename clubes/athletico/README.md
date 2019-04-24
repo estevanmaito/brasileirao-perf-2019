@@ -102,7 +102,7 @@ Atrasar o carregamento de imagens até que elas entrem no viewport (*image lazy 
 
 ## Resultado
 
-17.4s
+1. Athletico - 17.4s
 
 Graças ao H, o Afhletico se mantém na ponta, com o primeiro e único resultado até o momento.
 

@@ -65,8 +65,8 @@ A compressão, aliada ao carregamento atrasado das imagens (lazy load) reduziria
 
 ## Resultado
 
-- Atlético - 15.3s
-- Athletico - 17.4s
+1. Atlético - 15.3s
+1. Athletico - 17.4s
 
 Temos um novo líder! Este tempo poderia ser melhor reduzindo o tamanho dos bundles do CSS e JS e pré-carregando as fontes.
 

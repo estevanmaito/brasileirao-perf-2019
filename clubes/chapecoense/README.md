@@ -48,13 +48,13 @@ O cabeçalho é composto por uma imagem de 1920x822px e 91 KB, que **seria reduz
 
 ## Resultado
 
-- Ceará - 14.9s *
-- Atlético - 15.3s
-- Athletico - 17.4s
-- Chapecoense - 18.4s
-- Botafogo - 28s *
-- Bahia - 56.8s
-- Avaí - 61.6s
+1. Ceará - 14.9s *
+1. Atlético - 15.3s
+1. Athletico - 17.4s
+1. Chapecoense - 18.4s
+1. Botafogo - 28s *
+1. Bahia - 56.8s
+1. Avaí - 61.6s
 
 * Não é responsivo
 

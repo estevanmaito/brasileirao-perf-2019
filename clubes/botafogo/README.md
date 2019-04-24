@@ -42,11 +42,11 @@ A *compressão das imagens* aliada ao *carregamento atrasado* delas (lazy loadin
 
 ## Resultado
 
-- Atlético - 15.3s
-- Athletico - 17.4s
-- Botafogo - 28s *
-- Bahia - 56.8s
-- Avaí - 61.6s
+1. Atlético - 15.3s
+1. Athletico - 17.4s
+1. Botafogo - 28s *
+1. Bahia - 56.8s
+1. Avaí - 61.6s
 
 * Não é responsivo
 

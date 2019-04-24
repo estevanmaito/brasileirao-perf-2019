@@ -52,9 +52,9 @@ A compressão ajudaria muito a reduzir o tamanho total do site, mas tão importa
 
 ## Resultado
 
-- Atlético - 15.3s
-- Athletico - 17.4s
-- Avaí - 61.6s
+1. Atlético - 15.3s
+1. Athletico - 17.4s
+1. Avaí - 61.6s
 
 Só analisei estes 3 times até agora, mas aposto que essa vai ser a melhor posição do Avaí nessa tabela. **Resolver apenas o problema inicial do servidor já reduziria 26s desse tempo.**
 
