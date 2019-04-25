@@ -12,7 +12,7 @@
 - [Cruzeiro](/clubes/cruzeiro)
 - [Flamengo](/clubes/flamengo)
 - [Fluminense](/clubes/fluminense)
-- [Fortaleza](/clubes/fortaleza)
+- [Fortaleza](/clubes/fortaleza) - revisar tempo da segunda renderização, pois a thread volta a bloquear
 - [Goiás](/clubes/goias)
 - [Grêmio](/clubes/gremio)
 - [Internacional](/clubes/internacional)
