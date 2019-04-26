@@ -8,6 +8,10 @@ Já deixo avisado que **não estou julgando o trabalho dos desenvolvedores** env
 
 Por fim, dei o meu melhor possível analisando 20 sites em 5 dias. Em alguns dias foram até 7 análises. Foi só o que eu fiz. Evidentemente que algum erro pode ter ocorrido (nesse caso você pode propor a correção [no GitHub](https://github.com/estevanmaito/brasileirao-perf-2019)) ou algum item pode ter sido deixado de fora. Fiz isso por hobby, me diverti, aprendi muita coisa e espero que possa te ajudar de alguma forma também.
 
+## TL;DR
+
+- Se você pretende ler apenas a análise de um clube ou do seu clube do coração, leia pelo menos a do Athletico, que é a primeira análise e eu expliquei melhor os meus métodos nela;
+
 ## Clubes
 
 - [Athletico](/clubes/athletico)
