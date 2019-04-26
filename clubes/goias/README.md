@@ -29,7 +29,7 @@ As fontes usadas diretamente no site são requisitadas de dentro do CSS e depend
 }
 ```
 
-Este processo poderia ser agilizado usando `link`s com `preload`. Também fica um pouco complicado analisar seriamente o código de alguém que coloca emoji unicode no lugar da fonte que deveria ser carregada localmente, mas bola pra frente.
+Este processo poderia ser agilizado usando `link`s com `preload`.
 
 ![](imgs/fontes.png)
 
