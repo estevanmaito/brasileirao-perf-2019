@@ -60,7 +60,7 @@ O mesmo banner na versão mobile mede 767x480px e tem 141 KB. **Comprimido teria
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Assim como o Cruzeiro, o Flamengo assume duas lideranças ao mesmo tempo: site mais leve e mais rápido. Pra ser ter uma ideia, ele **pesa mais de 2x menos que uma imagem do site do Corinthians**. Esse tempo poderia melhorar com `defer` nos scripts e `dns-prefetch` nos recursos que dependem de CDN. Se minificar o código, melhorar o `keep alive` (de 5 pra 10 de timeout) e em últimos casos mudar o servidor para HTTP/2, **consegue baixar pelo menos 2s desse tempo**.
 

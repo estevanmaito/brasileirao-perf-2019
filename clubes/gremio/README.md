@@ -78,7 +78,7 @@ A compressão já está sendo feita. Um passo além seria o carregamento atrasad
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 O Grêmio assume a liderança com 1.6s de folga para o Flamengo, com uma margem mínima para melhorar de 1.5s, graças àquele script bloqueando o render. Além disso, é o único que baixa da casa dos 2 dígitos.
 

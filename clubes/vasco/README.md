@@ -69,7 +69,7 @@ Enquanto que o banner do topo mede 1920x220px e pesa 39 KB. Após a compressão 
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 O Vasco garante um quinto lugar amargo, pois não fosse o carregamento das fontes, o site estaria pronto alguns segundos antes. Não sei se seria o suficiente para tomar o segundo lugar do Flamengo, mas com certeza o terceiro.
 

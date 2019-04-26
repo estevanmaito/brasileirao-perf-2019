@@ -65,7 +65,7 @@ Para o tratamento de imagens ficar completo, só falta o uso de imagens específ
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Uma coisa precisa ser discutida: a possibilidade de uma interação por chat, **vale mais do que a interação com página em si**? Afinal, se a pessoa não esperar 15s até a página destravar, ela não vai usar o chat. Corrigindo só este script, o Internacional **pode melhorar em pelo menos 13s**.
 

@@ -53,7 +53,7 @@ O logo de um patrocinador tinha originalmente 144x119px e 13.9 KB, comprimido te
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Como eu não estou aqui para avaliar conteúdo, vamos ao que interessa. O Fluminense empata com o Atlético e fica atrás pelo fato de ter menos itens na categoria "Bom". Ainda assim, marca um tempo baixo, que poderia ser melhor com a redução dos códigos não utilizados no CSS e JS, além do carregamento que não atrapalharia a renderização. Este passa a ser o site mais leve, o que poderia ser melhor também, houvesse gzip e compressão de imagens.
 

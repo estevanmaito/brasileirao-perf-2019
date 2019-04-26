@@ -74,7 +74,7 @@ Compressão, carregamento atrasado (lazy load) e um possível carregamento de im
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 No desktop, com Ad Blocker, foram 190 requisições a menos. Então minha dica de otimização para o site do Palmeiras é essa, usem bloqueador de anúncios ao visitar.
 

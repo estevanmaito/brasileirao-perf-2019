@@ -48,7 +48,7 @@ A *compressão das imagens* aliada ao *carregamento atrasado* delas (lazy loadin
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Muito tempo é perdido com configurações do servidor: HTTP/1 atrasa o download e a falta de um simples cabeçalho como `keep alive` adiciona tempo de conexão desnecessário a cada requisição. Carregamento adiantado das fontes, compressão de CSS e scripts, além destes últimos carregados com `defer`, ajudariam um pouco, mas não resolveriam o fato do site não ser responsivo.
 

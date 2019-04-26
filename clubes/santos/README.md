@@ -63,7 +63,7 @@ Poderia aproveitar a compressão e carregamento atrasado das imagens para reduzi
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Atrasar a execução de scripts que não interferem no visual e interatividade da página poderia ajudar com a experiência do usuário aqui, alguns exemplos são scripts que mudam a dinâmica do scroll e o próprio Spotify. Quero conhecer o santista que chega no site do Santos só pra ouvir música.
 

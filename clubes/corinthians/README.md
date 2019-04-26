@@ -62,7 +62,7 @@ São 23.5 MB baixados (22.1 MB de imagens). Num plano de 100 MB a R$ 1,49/dia, a
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Com uma imagem que só é menor do que um dos times à frente, o quinto lugar poderia ser melhor com a compressão e lazy load das imagens. Essa deveria ser a prioridade. Indo além, minificação, carregamento apenas do necessário e `defer` ajudariam a reduzir alguns segundos. 
 

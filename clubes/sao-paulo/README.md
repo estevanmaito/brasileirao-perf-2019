@@ -70,7 +70,7 @@ Aparentemente existe uma compressão, que deve ser **por parte do trabalho de ex
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 As soluções que apontei acima, como o atraso do carregamento dos widgets sociais só teria efeito se estes elementos estivessem fora da tela, num site responsivo.
 

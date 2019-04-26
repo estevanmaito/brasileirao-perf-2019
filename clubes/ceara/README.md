@@ -72,7 +72,7 @@ Queria muito encontrar um sprite e achei aqui, ele tem 569x290px e 66 KB, teria 
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Uma versão mobile desse site, só com minificação, HTTP/2, um tempo de resposta melhor do servidor e `defer` reduziria esse tempo em uns 5s tranquilamente. A grande responsável por esse tempo é a compressão das 91 imagens, não tenho dúvidas. Uma melhor configuração de servidor e scripts não bloqueando a renderização, esse tempo baixaria em mais 4s! Em um site de 2010...
 

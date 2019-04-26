@@ -80,7 +80,7 @@ O site usa uma fonte de ícones mas também vários ícones no formato SVG, o pr
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Lembra do meu conselho de antes pra se for ter uma coisa, que seja gzip? É o que tem aqui, mas há milagre que ele faça com o site *mais pesado* até agora.
 

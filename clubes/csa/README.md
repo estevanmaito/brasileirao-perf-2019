@@ -61,7 +61,7 @@ Outra imagem sobre associados tem 788x402px, pesando 83.3 KB. **Comprimida teria
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Nem tudo está perdido. Algumas coisas bem simples trariam resultados consideráveis e imediatos: scripts com `defer`, `preload` de fontes, e uma conexão com o servidor que não se feche a cada 1 segundo, poderia reduzir o tempo do CSA em pelo menos 12s.
 

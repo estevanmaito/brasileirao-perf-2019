@@ -54,7 +54,7 @@ A compressão, aliada ao lazy load das imagens faria milagres nesse site, no pon
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 E o Cruzeiro assume duas lideranças: a de site mais rápido até a interação e o de mais pesado. O segredo está nos scripts que não atrasam tanto a renderização, de modo que o site já está utilizável num momento adiantado. Utilizável também não significa que tudo está lá. O tempo poderia ser menor e o resultado em tela também com o `preload` das fontes, `defer` dos scripts e o não carregamento de código que não é usado.
 

@@ -56,7 +56,7 @@ O cabeçalho é composto por uma imagem de 1920x822px e 91 KB, que **seria reduz
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Só de separar aquele script imenso em arquivos individuais já teríamos um ganho considerável, principalmente em tempo de thread bloqueada. Além disso, coisas simples como gzip no servidor, `defer` e `prefetch` das conexões poderia trazer esse tempo uns 8s pra baixo.
 

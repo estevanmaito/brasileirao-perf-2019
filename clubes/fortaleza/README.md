@@ -64,7 +64,7 @@ Lazy load e compressão reduziriam o tamanho geral da página.
 1. Bahia - 56.8s
 1. Avaí - 61.6s
 
-* Não é responsivo
+Não é responsivo *
 
 Se for pra ter pelo menos uma coisa certa, que seja gzip. É a conclusão que eu chego, já que os scripts vão ser carregados de forma que bloquearão a renderização, pelo menos que baixem rápido.
 
