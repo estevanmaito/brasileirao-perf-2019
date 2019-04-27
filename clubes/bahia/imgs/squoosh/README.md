@@ -2,7 +2,7 @@
 
 ![](2017_logobahia.png)
 
-### Otimizada JPEG
+### Otimizada PNG
 
 ![](2017_logobahia%20(1).png)
 

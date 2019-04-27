@@ -14,7 +14,7 @@
 
 ![](icone-sf805e096a6.png)
 
-### Otimizada JPEG
+### Otimizada PNG
 
 ![](icone-sf805e096a6%20(1).png)
 

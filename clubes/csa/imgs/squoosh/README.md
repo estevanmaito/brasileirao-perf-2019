@@ -2,7 +2,7 @@
 
 ![](socio.jpg)
 
-### Otimizada PNG
+### Otimizada JPEG
 
 ![](socio%20(1).jpg)
 

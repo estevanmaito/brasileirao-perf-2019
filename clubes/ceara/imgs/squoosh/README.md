@@ -14,7 +14,7 @@
 
 ![](sprite.png)
 
-### Otimizada JPEG
+### Otimizada PNG
 
 ![](sprite%20(1).png)
 
