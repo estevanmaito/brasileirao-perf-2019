@@ -16,7 +16,7 @@ Praticamente todos scripts e CSS estão minificados, **com exceção de um arqui
 
 Todo esse código não usado (1.3 MB só de JS) segura uma otimização: todos os scripts estão no `head` e alguns usam `defer`. Suponho que os 5 scripts usando `defer` tenham sido analisados e os demais não o usam devido a alguma interação que deve ser executada de forma síncrona. 
 
-![](script.png)
+![](imgs/script.png)
 
 Mas como eu sou curioso, resolvi executar o JavaScript Profiler no CDT e descobri que o responsável pelo bloqueio da thread é o script `widget_v2.293.js`, que **pesa 246 KB gzipado mas descomprimido vai a 1 MB**! Você pode vê-lo sendo baixado na linha 52 (final 290.js). Este script é responsável por colocar uma janela de chat ao vivo no rodapé.
 
