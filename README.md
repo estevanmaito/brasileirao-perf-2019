@@ -1,4 +1,4 @@
-## Brasileirão de performance web 2019
+# Brasileirão de performance web 2019
 
 Todo começo de campeonato brasileiro de futebol surgem diversas comparações entre elencos, caixa, títulos e até o momento dos clubes. Mas ninguém nunca pensou em comparar o site de cada time (não sei porquê...).
 
